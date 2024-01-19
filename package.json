@@ -1,0 +1,15 @@
+{
+  "name": "blogging-platform",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "server.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "author": "Gaurav Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.4.3",
+    "express.js": "^1.0.0"
+  }
+}
